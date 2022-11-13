@@ -1,1 +1,0 @@
-{"version":3,"file":"graphql-hello.module.js","sourceRoot":"","sources":["../../src/graphql-hello/graphql-hello.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,qEAAgE;AAChE,mEAA8D;AAK9D,IAAa,kBAAkB,GAA/B,MAAa,kBAAkB;CAAG,CAAA;AAArB,kBAAkB;IAH9B,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,6CAAoB,EAAE,2CAAmB,CAAC;KACvD,CAAC;GACW,kBAAkB,CAAG;AAArB,gDAAkB"}
